@@ -1,0 +1,340 @@
+2015-10-03 18:33:07,159 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 18:33:08,173 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DFDLProject/src/main/java
+2015-10-03 18:33:08,174 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DFDLProject/src/test/java
+2015-10-03 18:33:08,174 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DFDLProject/src/test/resources
+2015-10-03 18:33:08,417 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-10-03 18:33:08,993 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 18:33:09,853 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 18:33:10,241 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:10,242 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:33:10,244 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:10,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-03 18:33:11,873 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 18:33:12,419 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:12,419 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:33:12,421 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:12,424 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 18:33:25,551 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:33:25,551 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-10-03 18:33:28,242 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:28,242 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:33:28,243 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:33:28,246 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-03 18:33:35,042 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-03 18:33:51,788 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:33:51,789 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B validate
+2015-10-03 18:33:59,594 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-03 18:34:09,382 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:34:09,382 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-10-03 18:45:54,156 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:45:54,157 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:45:54,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:45:54,159 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 18:47:06,050 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-03 18:50:09,890 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:50:09,890 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:50:09,891 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:50:09,894 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-03 18:50:18,839 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:50:18,839 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-10-03 18:51:46,852 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-03 18:52:14,421 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:52:14,421 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-03 18:53:53,714 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:53:53,714 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B validate
+2015-10-03 18:54:08,259 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:54:08,259 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-10-03 18:54:09,975 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:54:09,975 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:54:09,977 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:54:09,979 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-03 18:54:59,064 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:54:59,064 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-10-03 18:55:13,313 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject
+2015-10-03 18:55:13,314 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-10-03 18:55:40,746 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:55:40,746 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:55:40,749 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:55:40,749 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 18:57:37,546 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:57:37,546 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 18:57:37,547 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:57:37,547 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 18:58:44,693 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\pom.xml.
+2015-10-03 18:58:45,167 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /daffodil-java-examples/src/main/java
+2015-10-03 18:58:45,168 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /daffodil-java-examples/src/test/java
+2015-10-03 18:58:45,169 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /daffodil-java-examples/src/test/resources
+2015-10-03 18:58:45,226 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-10-03 18:58:45,544 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\pom.xml.
+2015-10-03 18:58:45,747 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:58:45,748 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\src\main\resources
+2015-10-03 18:58:45,748 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:58:45,749 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-03 18:58:46,695 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\pom.xml.
+2015-10-03 18:58:47,126 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:58:47,126 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\src\main\resources
+2015-10-03 18:58:47,127 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 18:58:47,128 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:15:41,059 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:15:41,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Downloads\daffodil-java-examples-master\daffodil-java-examples-master\src\main\resources
+2015-10-03 19:15:41,064 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:15:41,066 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:15:59,540 [Worker-3] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+org.eclipse.core.runtime.CoreException: Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2015-10-03 19:15:59,544 [Worker-3] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+org.eclipse.core.runtime.CoreException: Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2015-10-03 19:15:59,556 [Worker-3] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+org.eclipse.core.runtime.CoreException: Launch configuration CsvParserExampleTest (1) references non-existing project daffodil-java-examples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.101.v20140825-1922.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.1.v20140805-1629.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2015-10-03 19:16:23,180 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:16:23,180 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:16:23,181 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:16:23,181 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:16:31,276 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:16:31,276 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:16:31,278 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:16:31,278 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:20:39,018 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:20:39,022 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:20:39,025 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:20:39,031 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-10-03 19:20:44,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:20:44,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:20:44,510 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:20:44,512 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:22:30,377 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:30,378 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:22:30,383 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:30,383 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:22:37,409 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:37,410 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:22:37,414 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:37,415 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:22:58,060 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:58,060 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:22:58,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:22:58,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:23:05,848 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:05,849 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:23:05,854 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:05,855 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:23:15,050 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:15,051 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:23:15,053 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:15,053 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:23:24,093 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 19:23:25,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:25,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:23:25,982 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:25,982 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:23:27,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:27,304 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:23:27,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:23:27,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:25:12,776 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:25:12,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:25:12,778 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:25:12,778 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:25:16,213 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:25:16,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:25:16,215 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:25:16,215 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:26:00,410 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:26:00,411 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:26:00,412 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:26:00,412 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:26:04,020 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:26:04,021 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:26:04,022 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:26:04,023 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:34:54,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:34:54,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:34:54,836 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:34:54,836 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:36:14,903 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:36:14,903 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:36:14,904 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:36:14,906 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:39:01,330 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:39:01,330 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:39:01,331 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:39:01,332 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:42:58,589 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 19:43:01,861 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:01,861 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:43:01,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:01,867 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:43:19,437 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:19,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:43:19,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:19,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:43:22,013 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:22,013 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:43:22,014 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:22,015 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:43:53,970 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:53,970 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:43:53,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:43:53,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:44:24,175 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:24,175 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:44:24,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:24,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:44:41,451 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:41,451 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:44:41,452 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:41,452 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:44:48,594 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:48,594 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:44:48,595 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:44:48,596 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:45:15,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:45:15,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:45:15,780 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:45:15,781 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:46:04,707 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:46:04,708 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:46:04,709 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:46:04,711 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:46:17,069 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:46:17,069 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:46:17,071 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:46:17,071 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:47:01,219 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:01,219 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:47:01,220 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:01,220 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:47:06,791 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:06,791 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:47:06,792 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:06,793 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:47:49,196 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:49,197 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:47:49,199 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:49,199 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:47:59,213 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:59,213 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:47:59,215 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:47:59,216 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:48:30,471 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:48:30,471 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:48:30,472 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:48:30,472 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:48:43,666 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:48:43,666 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:48:43,667 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:48:43,668 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:49:56,901 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 19:49:57,239 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:49:57,239 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:49:57,240 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:49:57,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:51:05,337 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:51:05,338 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\main\resources
+2015-10-03 19:51:05,339 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:51:05,339 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:53:01,272 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:01,274 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:53:01,278 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:01,279 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:53:08,285 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.brewman:daffodil-java-examples:0.0.1-SNAPSHOT @ C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\pom.xml.
+2015-10-03 19:53:08,713 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:08,714 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-03 19:53:08,754 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:08,754 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:53:18,959 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:18,960 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-03 19:53:18,962 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:18,962 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:53:20,909 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:20,910 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-03 19:53:20,917 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:20,917 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 19:53:26,432 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:26,432 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-03 19:53:26,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 19:53:26,434 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 20:02:21,536 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:02:21,776 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-03 20:02:21,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:02:21,781 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 20:03:31,751 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:03:31,753 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-03 20:03:31,755 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:03:31,755 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 20:03:55,767 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:03:55,769 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-03 20:03:55,773 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:03:55,773 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
+2015-10-03 20:04:29,527 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:04:29,529 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-03 20:04:29,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-03 20:04:29,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SaiManjula\Documents\TTU\Fall 2015\SVV\Project\Eclipse-DFDLProject\DFDLProject\src\test\resources
