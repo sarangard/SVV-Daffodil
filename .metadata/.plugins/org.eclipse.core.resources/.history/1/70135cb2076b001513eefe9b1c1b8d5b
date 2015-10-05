@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--  
-   This is the DFDL schema use for validating Comma Separated Values Files. 
+   Calls the SchemaValidator method from main. 
    @author SaiManjula
    @author Sarang
  --> 

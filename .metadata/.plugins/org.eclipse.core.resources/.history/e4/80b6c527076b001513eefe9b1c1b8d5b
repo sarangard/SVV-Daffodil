@@ -1,11 +1,5 @@
 package svv.project;
 
-/** 
- * Calls the SchemaValidator method from main. 
- * @author SaiManjula
- * @author Sarang
- */
-
 public class LaunchApplication 
 {
 

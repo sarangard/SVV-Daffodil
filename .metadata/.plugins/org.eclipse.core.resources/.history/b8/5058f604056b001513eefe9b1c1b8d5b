@@ -13,73 +13,68 @@ import org.jdom2.Document;
 import org.jdom2.output.Format;
 import org.jdom2.output.XMLOutputter;
 
-/* Packages required for the DFDL processor */
+/* Packages required to for the DFDL processor */
 import edu.illinois.ncsa.daffodil.japi.Compiler;
 import edu.illinois.ncsa.daffodil.japi.Daffodil;
 import edu.illinois.ncsa.daffodil.japi.DataProcessor;
 import edu.illinois.ncsa.daffodil.japi.ParseResult;
 import edu.illinois.ncsa.daffodil.japi.ProcessorFactory;
 
-/** 
- * Validates a file with a schema and returns output in a xml format. 
- * @author SaiManjula
- * @author Sarang
- */
 public class SchemaValidator 
 {
-	private static final String EXAMPLE_SCHEMA = "csv.dfdl.xsd";
-	private static final String EXAMPLE_DATA = "SimpleCSV.csv";
+	private static final String TEST_SCHEMA = "csv.dfdl.xsd";
+	private static final String TEST_DATA = "SimpleCSV.csv";
 	
 	public void Execute() throws Exception 
 	{
 		/**
-		 * Create an instance of Daffodil Compiler. Set validateDFDLSchemas method to true. 
+		 * Create a Daffodil Compiler. Make sure it validates?
 		 */
 		Compiler c = Daffodil.compiler();
 		c.setValidateDFDLSchemas(true);
 
 		/**
-		 * Get a URL for the example schema resource. 
-		 * 
+		 * Get a URL for the test schema resource. We'll use it later to get the
+		 * file or load the XML or whatever...
 		 */
-		URL schemaUrl = getClass().getResource("/DFDLSchemas/" + EXAMPLE_SCHEMA);
+		URL schemaUrl = getClass().getResource("/DFDLSchemas/" + TEST_SCHEMA);
 		
 		/**
-		 * Pass the URI using schemaUrl and pass it to a file.
+		 * And then compile the schema. Why the original vs. the other XML? No
+		 * idea...
 		 * 
-		 * 
-		 * Create an instance of a ProcessorFactory and compile file from the url.
+		 * But we get a ProcessorFactory from it.
 		 */
 		File schemaFiles = new File(schemaUrl.toURI());
 		ProcessorFactory pf = c.compileFile(schemaFiles);
 
 		/**
-		 * Check if there is an error with the ProcessorFactory.
+		 * See if there was an error yet?
 		 */		
 		if (pf.isError()) 
 		{
-			throw new Exception("Processor Factory error");
+			throw new Exception("error1");
 		}
 
 		/**
-		 * Get a DataProcessor from the ProcessorFactory. 
-		 * We use an XPath here.
+		 * Get a DataProcessor from the ProcessorFactory. I guess the parameter
+		 * tells it where to start processing from? Why XPath here?
 		 */
-		DataProcessor dp = pf.onPath("/");
+		DataProcessor p = pf.onPath("/");
 
 		/**
-		 * Check if there is an error with the DataProcessor.
+		 * Again, check if there is an error with the DataProcessor?
 		 */
-		if (dp.isError()) 
+		if (p.isError()) 
 		{
-			throw new Exception("Data Processor error");
+			throw new Exception("error2");
 		}
 
 		/**
-		 * Get a URL for the example schema resource. 
-		 * 
+		 * Get a URL for the test schema resource. We'll use it later to get the
+		 * file or load the XML or whatever...
 		 */
-		URL dataUrl = getClass().getResource("/TestFiles/" + EXAMPLE_DATA);
+		URL dataUrl = getClass().getResource("/TestFiles/" + TEST_DATA);
 		
 		/**
 		 * Get a File for the test data.
@@ -89,22 +84,19 @@ public class SchemaValidator
 		ReadableByteChannel rbc = Channels.newChannel(fis);
 
 		/**
-		 * We try to parse the sample data.
+		 * Now finally try to parse the sample data.
 		 */
-		ParseResult output = dp.parse(rbc);
+		ParseResult actual = p.parse(rbc);
 
 		/**
-		 * Check if there is any error with ParseResult.
+		 * And see if there is an error again?
 		 */
-		if (output.isError()) 
+		if (actual.isError()) 
 		{
-			throw new Exception("Parse Result error");
+			throw new Exception("error3");
 		}
 
-		/**
-		 *  Print the output from the parse result in the console in an XML format.
-		 */
-		Document doc = output.result();
+		Document doc = actual.result();
 		XMLOutputter xo = new XMLOutputter();
 		xo.setFormat(Format.getPrettyFormat());
 		xo.output(doc, System.out);
