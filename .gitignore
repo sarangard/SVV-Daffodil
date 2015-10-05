@@ -1,4 +1,6 @@
 DFDLProject/target
 DFDLProject/.settings
 .metadata/
+.metadata/.plugins/
+.metadata/.mylyn/
 RemoteSystemsTempFiles/
