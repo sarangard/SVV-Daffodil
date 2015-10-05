@@ -20,11 +20,7 @@ import edu.illinois.ncsa.daffodil.japi.DataProcessor;
 import edu.illinois.ncsa.daffodil.japi.ParseResult;
 import edu.illinois.ncsa.daffodil.japi.ProcessorFactory;
 
-/** 
- * Validates a file with a schema and returns output in a xml format. 
- * @author SaiManjula
- * @author Sarang
- */
+/* Validates a file with a schema and returns output in a xml format. */
 public class SchemaValidator 
 {
 	private static final String EXAMPLE_SCHEMA = "csv.dfdl.xsd";
